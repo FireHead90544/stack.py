@@ -3,7 +3,7 @@ from setuptools import setup
 with open("README.md", "r") as fh:
     readme = fh.read()
 
-setup(name='lifostack',
+setup(name='stack.py',
       version='1.0',
       description='LIFO Implementation of Stack in Python.',
       long_description=readme,
